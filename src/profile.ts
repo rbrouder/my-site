@@ -49,7 +49,7 @@ export const profile = {
    *   "class"          — your classmates and the professor (recommended)
    *   "professor-only" — just the professor
    */
-  rosterVisibility: "class" as "class" | "professor-only",
+    rosterVisibility: "class" as "class" | "class",
 
   /** A one-line tagline for your home page. Make it yours. */
   tagline: "Building a portfolio of decision services, one lane at a time.",
