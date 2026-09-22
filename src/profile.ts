@@ -42,7 +42,7 @@ export const profile = {
    * (e.g. put photo.jpg in the public/ folder and change this to "/photo.jpg").
    * It must be a real image file: the grader fetches it and checks.
    */
-  photoPath: "ray_photo.jpg",
+  photoPath: "/ray_photo.jpg",
 
   /**
    * Who can see your roster card:
@@ -65,5 +65,5 @@ export const profile = {
    * verify you have ≥ 5 commits spread over days (not one bulk dump).
    * Example: "https://github.com/your-username/your-repo"
    */
-  repoUrl: "https://github.com/rbrouder/decision-services",
+  repoUrl: "https://github.com/rbrouder/my-site",
 };
